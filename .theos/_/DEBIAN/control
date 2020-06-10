@@ -1,0 +1,10 @@
+Package: dev.dillios.hidelspadlock
+Name: HideLSPadlock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Simple tweak to hide the FaceID lockscreen padlock glyph.
+Maintainer: dillios <me@dillios.dev>
+Author: dillios <me@dillios.dev>
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 152
